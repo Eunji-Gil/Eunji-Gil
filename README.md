@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there! Eunji-Gil의 GitHub에 오신 것을 환영합니다 🖐🏻
+
+#### ✨ About Me ✨
+Front-end 개발자를 희망하는 경영학도입니다!
+
 
 <!--
 **Eunji-Gil/Eunji-Gil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
